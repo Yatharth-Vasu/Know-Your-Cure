@@ -6,7 +6,7 @@ n1 = st.text_input("Enter Your Skin Type")
 if st.button("Identify Cure"):
 
     if( n1.lower() in ["oily"]  ):
-        print("""Oily & Acne-Prone Skin:
+         st.write("""Oily & Acne-Prone Skin:
  *Face Wash* -
 1. The Derma Co 1% Salicylic Acid Gel Face Wash
 2. Minimalist 2% Salicylic Acid Cleanser
@@ -28,7 +28,7 @@ if st.button("Identify Cure"):
 2. Fixderma Shadow SPF 50+ Gel
 3. Beauty of Joseon Relief Sun SPF 50+""")
     elif(n1.lower() in ["dry"]):
-        print("""_Dry skin :
+         st.write("""_Dry skin :
               _ 
  *Face Wash* -
 1. Cetaphil Gentle Skin Cleanser
@@ -51,9 +51,21 @@ if st.button("Identify Cure"):
 2. Isntree Hyaluronic Acid Watery Sun Gel
 3. Neutrogena Ultra Sheer SPF 50""")
     elif(n1.lower() in ["normal"]):
-        print("""""")
+        st.write("""For normal skin:
+Facewash- 1.Cetaphil gentle cleanser.
+2.Cerave hydrating cleanser.
+Toner - 1.Klairs Supple Preparation Unscented Toner.
+2.Dot & Key Rice Water Toner.
+Serum-1.Minimalist Vitamin C 10% Serum.
+2.L'Oréal Paris Revitalift Hyaluronic Acid Serum.
+3.Plum Vitamin C Serum.
+Moisturizer -1.Cetaphil Moisturising Lotion
+Neutrogena Hydro Boost Water Gel.
+2.Simple Hydrating Light Moisturiser.
+Sunscreen -1.Minimalist Light Fluid Sunscreen SPF 50.
+2.Beauty of Joseon Relief Sun SPF 50+""")
     elif(n1.lower() in ["combination"]):
-        print("""Combination Skin
+        st.write("""Combination Skin
               
 Face Wash: Simple Refreshing Face Wash, Cetaphil Oily Skin Cleanser
 Toner: Dot & Key Rice Water Toner, Simple Soothing Facial Toner
@@ -62,7 +74,7 @@ Moisturizer: Neutrogena Hydro Boost Water Gel, Simple Hydrating Light Moisturise
 Sunscreen: Minimalist Light Fluid Sunscreen SPF 50, Deconstruct Gel Sunscreen SPF 55""")
 
     elif(n1.lower() in ["sensitive"]):
-        print("""Sensitive Skin
+        st.write("""Sensitive Skin
               
 Face Wash
 Cetaphil Gentle Skin Cleanser
@@ -85,4 +97,4 @@ La Roche-Posay Anthelios SPF 50+
 Beauty of Joseon Relief Sun SPF 50+
 Bioderma Photoderm Max SPF 50+""")
     else:
-        print("""alien skin u have""")
+        st.write("""alien skin u have""")
