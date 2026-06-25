@@ -5,7 +5,7 @@ st.title("Know Your Cure")
     n1 = st.selectbox("Enter Your Skin Type" , ["oily", "dry", "combination"])
 if st.button("Identify Cure"):
 
-    if( n1.lower() in ["oily"]  ):
+    if( n1 == "oily"):
          st.write("""Oily & Acne-Prone Skin:
  *Face Wash* -
 1. The Derma Co 1% Salicylic Acid Gel Face Wash
@@ -27,7 +27,7 @@ if st.button("Identify Cure"):
 1. Deconstruct Gel Sunscreen SPF 55
 2. Fixderma Shadow SPF 50+ Gel
 3. Beauty of Joseon Relief Sun SPF 50+""")
-    elif(n1.lower() in ["dry"]):
+    elif(n1 == "dry"):
          st.write("""_Dry skin :
               _ 
  *Face Wash* -
@@ -50,7 +50,7 @@ if st.button("Identify Cure"):
 1. Beauty of Joseon Relief Sun SPF 50+
 2. Isntree Hyaluronic Acid Watery Sun Gel
 3. Neutrogena Ultra Sheer SPF 50""")
-    elif(n1.lower() in ["normal"]):
+    elif(n1 == "normal"):
         st.write("""For normal skin:
 Facewash- 1.Cetaphil gentle cleanser.
 2.Cerave hydrating cleanser.
@@ -64,7 +64,7 @@ Neutrogena Hydro Boost Water Gel.
 2.Simple Hydrating Light Moisturiser.
 Sunscreen -1.Minimalist Light Fluid Sunscreen SPF 50.
 2.Beauty of Joseon Relief Sun SPF 50+""")
-    elif(n1.lower() in ["combination"]):
+    elif(n1 == "combination"):
         st.write("""Combination Skin
               
 Face Wash: Simple Refreshing Face Wash, Cetaphil Oily Skin Cleanser
@@ -73,7 +73,7 @@ Serum: Minimalist Niacinamide 5% Serum, Minimalist Vitamin C 10% Serum
 Moisturizer: Neutrogena Hydro Boost Water Gel, Simple Hydrating Light Moisturiser
 Sunscreen: Minimalist Light Fluid Sunscreen SPF 50, Deconstruct Gel Sunscreen SPF 55""")
 
-    elif(n1.lower() in ["sensitive"]):
+    elif(n1 == "sensitive"):
         st.write("""Sensitive Skin
               
 Face Wash
