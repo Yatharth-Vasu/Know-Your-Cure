@@ -2,7 +2,7 @@
 import streamlit as st
 
 st.title("Know Your Cure")
-n1 = st.text_input("Enter Your Skin Type")
+    n1 = st.selectbox("Enter Your Skin Type" , ["oily", "dry", "combination"])
 if st.button("Identify Cure"):
 
     if( n1.lower() in ["oily"]  ):
