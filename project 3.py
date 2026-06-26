@@ -41,7 +41,7 @@ https://www.dotandkey.com/products/rice-water-probiotics-hydrating-toner""")
 https://share.google/QfRcS39AXrDWiyk6M
                  
 2. The Ordinary Niacinamide 10% + Zinc 1% –\n 
-https://share.google/Ocga8gPRAvesQiIH
+https://share.google/3z694F58JGnIZOyCm
                  
 3. The Derma Co Niacinamide Serum –\n 
  https://share.google/bdDY0b0UzeRrPYTat""")
