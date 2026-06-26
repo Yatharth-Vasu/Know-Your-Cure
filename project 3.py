@@ -216,7 +216,7 @@ https://www.cetaphil.in/products/cleansers/gentle-skin-cleanser/8906005274105.ht
 https://www.cerave.com/skincare/cleansers/hydrating-facial-cleanser
                  
 3. Physiogel Daily Moisture Therapy Cleanser –\n 
-https://www.physiogel.com/products/daily-moisture-therapy-cleanser""")
+https://www.nykaa.com/physiogel-dermo-cleanser/p/14373160?utm_source=chatgpt.com""")
     elif(n1 == 'Sensitive' and n2 == '💧Toner'):
         st.write("""💧Toner :
                  
@@ -224,15 +224,15 @@ https://www.physiogel.com/products/daily-moisture-therapy-cleanser""")
 https://www.klairscosmetics.com/product/supple-preparation-unscented-toner/
                  
 2. Pyunkang Yul Essence Toner –\n 
-https://pyunkangyul.us/products/essence-toner
+https://pyunkangyul.shop/products/essence-toner?utm_source=chatgpt.com
                  
 3. Simple Soothing Facial Toner –\n 
-https://www.simpleskincare.in/products/kind-to-skin-soothing-facial-toner""")
-    elif(n1 == 'Sensitive' and n2 == '🔬serum'):
+https://www.simpleskincare.in/products/simple-kind-to-skin-soothing-facial-toner-200ml?utm_source=chatgpt.com""")
+    elif(n1 == 'Sensitive' and n2 == '🔬Serum'):
         st.write("""🔬Serum :
                  
 1. Minimalist Sepicalm 3% Serum –\n 
-https://beminimalist.co/products/sepicalm-3-oat-serum
+https://www.1mg.com/otc/minimalist-sepicalm-03-moisturizer-otc716074?utm_source=chatgpt.com
                  
 2. The Ordinary Soothing & Barrier Support Serum –\n 
 https://theordinary.com/en-us/soothing-barrier-support-serum
@@ -249,7 +249,7 @@ https://www.laroche-posay.com/anthelios
 https://beautyofjoseon.com/products/relief-sun-rice-probiotics
                  
 3. Bioderma Photoderm Max SPF 50+ –\n 
-https://www.bioderma.us/all-products/photoderm/max-spf-50""")
+https://www.bioderma-india.in/our-products/photoderm/max-aquafluide-spf-50""")
     elif(n1 == "Sensitive" and n2 == '🧴Moisturizer'):
         st.write("""🧴Moisturizer :
                  
