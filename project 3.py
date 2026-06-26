@@ -276,7 +276,7 @@ https://roundlab.com/products/1025-dokdo-cleanser""")
         st.write("""💧Toner :
                  
 1. Anua Heartleaf 77% Soothing Toner –\n 
-https://anua.kr/products/heartleaf-77-soothing-toner
+https://anua.com/products/heartleaf-77-soothing-toner
                  
 2. Round Lab 1025 Dokdo Toner –\n 
 https://roundlab.com/products/1025-dokdo-toner
@@ -290,10 +290,10 @@ https://tirtir.global/products/milk-skin-toner""")
 https://beautyofjoseon.com/products/glow-serum-propolis-niacinamide
                  
 2. Beauty of Joseon Glow Deep Serum (Rice + Alpha-Arbutin) –\n 
-https://beautyofjoseon.com/products/glow-deep-serum-rice-arbutin
+https://beautyofjoseon.com/products/glow-deep-serum-rice-alpha-arbutin
                  
 3. Anua Niacinamide 10% + TXA 4% Serum –\n 
-https://anua.kr/products/niacinamide-10-txa-4-serum""")
+https://anua.com/products/niacinamide-10-txa-4-dark-spot-correcting-serum""")
     elif(n1 == 'Delusional Korean Glass SKin😂😂😂' and n2 == '☀️Sunscreen'):
         st.write("""☀️Sunscreen :
                  
@@ -301,10 +301,10 @@ https://anua.kr/products/niacinamide-10-txa-4-serum""")
 https://beautyofjoseon.com/products/relief-sun-rice-probiotics
                  
 2. Round Lab Birch Juice Moisturizing Sun Cream SPF50+ –\n 
-https://roundlab.com/products/birch-juice-moisturizing-sun-cream
+https://roundlab.com/products/birch-moisturizing-uv-sunscreen
                  
 3. Isntree Hyaluronic Acid Watery Sun Gel SPF50+ –\n 
-https://en.isntree.com/products/hyaluronic-acid-watery-sun-gel""")
+https://isntree-global.com/products/isntree-hyaluronic-acid-watery-sun-gel-50ml""")
     elif(n1 == "Delusional Korean Glass SKin😂😂😂" and n2 == '🧴Moisturizer'):
         st.write("""🧴Moisturizer :
                  
@@ -315,7 +315,7 @@ https://beautyofjoseon.com/products/dynasty-cream
 https://www.cosrx.com/products/advanced-snail-92-all-in-one-cream
                  
 3.Round Lab Birch Juice Moisturizing Cream –\n 
-https://roundlab.com/products/birch-juice-moisturizing-cream""")
+https://roundlab.com/products/birch-juice-moisturizing-cream?utm_source=chatgpt.com""")
         
         
         
