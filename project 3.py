@@ -234,11 +234,11 @@ https://www.simpleskincare.in/products/simple-kind-to-skin-soothing-facial-toner
 1. Minimalist Sepicalm 3% Serum –\n 
 https://www.1mg.com/otc/minimalist-sepicalm-03-moisturizer-otc716074?utm_source=chatgpt.com
                  
-2. The Ordinary Soothing & Barrier Support Serum –\n 
-https://theordinary.com/en-us/soothing-barrier-support-serum
+2.The Ordinary Soothing & Barrier Support Serum–\n 
+https://theordinary.com/en-in/soothing-barrier-support-serum-100634.html
                  
 3. Purito Centella Unscented Serum –\n 
-https://purito.com/product/centella-unscented-serum/""")
+https://purito.com/product/wonder-releaf-centella-serum-unscented/""")
     elif(n1 == 'Sensitive' and n2 == '☀️Sunscreen'):
         st.write("""☀️Sunscreen :
                  
