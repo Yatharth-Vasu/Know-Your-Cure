@@ -14,7 +14,7 @@ if st.button("Get Your Cure"):
     if( n1 == "Oily" and n2 == "🧼Face wash"  ):
         st.write("""🧼Face Wash :
  
-1. The Derma Co 1% Salicylic Acid Gel Face Wash –
+1. The Derma Co 1% Salicylic Acid Gel Face Wash –\n
  https://thedermaco.com/product/1-salicylic-acid-gel-face-wash-the-dermaco-100ml/
 
 2.Minimalist 2% Salicylic Acid + LHA Cleanser – 
