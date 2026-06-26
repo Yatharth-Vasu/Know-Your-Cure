@@ -239,7 +239,7 @@ https://theordinary.com/en-us/soothing-barrier-support-serum
                  
 3. Purito Centella Unscented Serum – 
 https://purito.com/product/centella-unscented-serum/""")
-    elif(n1 == 'Sensitive' and n2 == '☀️sunscreen'):
+    elif(n1 == 'Sensitive' and n2 == '☀️Sunscreen'):
         st.write("""☀️Sunscreen :
                  
 1. La Roche-Posay Anthelios SPF 50+ – 
