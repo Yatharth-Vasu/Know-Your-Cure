@@ -27,7 +27,7 @@ https://innovist.com/products/oil-acne-control-face-wash """)
         st.write("""💧Toner :
                  
 1. The Derma Co Pore Minimizing Toner –\n 
-https://thedermaco.com/products/2-niacinamide-pore-minimizing-face-toner
+https://thedermaco.com/products/2-salicylic-bha-hydrating-toner-150-ml?utm_source=chatgpt.com
                  
 2. COSRX AHA/BHA Clarifying Treatment Toner –\n 
 https://www.cosrx.com/products/aha-bha-clarifying-treatment-toner
@@ -38,18 +38,18 @@ https://www.dotandkey.com/products/rice-water-probiotics-hydrating-toner""")
         st.write("""🔬Serum :
                  
 1. Minimalist Niacinamide 5% Serum –\n 
-https://beminimalist.co/products/niacinamide-5-serum
+https://share.google/QfRcS39AXrDWiyk6M
                  
 2. The Ordinary Niacinamide 10% + Zinc 1% –\n 
-https://theordinary.com/en-us/niacinamide-10-zinc-1-serum
+https://share.google/Ocga8gPRAvesQiIH
                  
 3. The Derma Co Niacinamide Serum –\n 
-https://thedermaco.com/products/10-niacinamide-face-serum""")
+ https://share.google/bdDY0b0UzeRrPYTat""")
     elif(n1 == 'Oily' and n2 == '☀️Sunscreen'):
         st.write("""☀️Sunscreen :
                  
 1. Deconstruct Gel Sunscreen SPF 55 –\n 
-https://thedeconstruct.in/products/gel-sunscreen-spf-55-pa
+https://thedeconstruct.in/products/gel-sunscreen-spf-55?_pos=1&_sid=8646b3465&_ss=r
                  
 2. Fixderma Shadow SPF 50+ Gel –\n 
 https://www.fixderma.com/products/shadow-spf-50-gel
@@ -59,18 +59,18 @@ https://beautyofjoseon.com/products/relief-sun-rice-probiotics""")
     elif(n1 == "Oily" and n2 == '🧴Moisturizer'):
         st.write("""🧴Moisturizer :
 1. Pond's Super Light Gel –\n 
-https://www.ponds.com/in/p/super-light-gel.html
+https://ponds.in/products/super-light-gel-with-hyaluronic-acid-vitamin-e?utm_source=chatgpt.com
                  
 2. Minimalist Vitamin B5 10% Moisturizer –\n 
 https://beminimalist.co/products/vitamin-b5-10-moisturizer
                  
 3. Re'equil Oil Free Moisturiser –\n 
-https://www.reequil.com/products/oil-free-moisturiser""")
+https://www.reequil.com/products/oil-free-mattifying-moisturiser?utm_source=chatgpt.com""")
     elif(n1 == "Dry" and n2 == "🧼Face wash"):
         st.write("""🧼Face Wash :
 
 1. Cetaphil Gentle Skin Cleanser –\n 
-https://www.cetaphil.com/us/cleansers/gentle-skin-cleanser
+https://www.cetaphil.in/products/cleansers/gentle-skin-cleanser/8906005274105.html
                  
 2. CeraVe Hydrating Cleanser –\n
 https://www.cerave.com/skincare/cleansers/hydrating-facial-cleanser
@@ -84,21 +84,21 @@ https://www.bioderma.us/all-products/atoderm/shower-gel""")
 https://www.klairscosmetics.com/product/supple-preparation-facial-toner/
                  
 2. Laneige Cream Skin Refiner –\n 
-https://www.laneige.com/int/en/skincare/cream-skin.html
+https://www.glamour.com/story/how-to-get-cream-skin?utm_source=chatgpt.com
                  
 3. TONYMOLY Wonder Ceramide Mochi Toner –\n 
-https://tonymoly.us/products/wonder-ceramide-mochi-toner""")
+https://tonymoly.com/products/wonder-ceramide-mochi-toner.do?i_sProductcd=TM20250324000150898""")
     elif(n1 == 'Dry' and n2 == '🔬Serum'):
         st.write("""🔬Serum :
                  
 1. L'Oréal Paris Hyaluronic Acid Serum –\n 
- https://www.lorealparis.co.in/revitalift/revitalift-1-5-percent-hyaluronic-acid-serum
+ https://www.lorealparis.co.in/revitalift/revitalift-1-5-percent-hyaluronic-acid-serum-30ml
                  
 2. Minimalist Hyaluronic Acid 2% Serum –\n 
- https://beminimalist.co/products/hyaluronic-acid-2-percent-serum
+ https://share.google/doDmSsfL7F3GxLL9N
                  
 3. The Ordinary Hyaluronic Acid 2% + B5 –\n 
-https://theordinary.com/en-us/hyaluronic-acid-2-b5-serum""")
+https://theordinary.com/en-in/hyaluronic-acid-2-b5-serum-original-formulation-100425.html""")
     elif(n1 == 'Dry' and n2 == '☀️Sunscreen'):
         st.write("""☀️Sunscreen :
                  
@@ -106,10 +106,10 @@ https://theordinary.com/en-us/hyaluronic-acid-2-b5-serum""")
 https://beautyofjoseon.com/products/relief-sun-rice-probiotics
                  
 2. Isntree Hyaluronic Acid Watery Sun Gel –\n 
-https://en.isntree.com/products/hyaluronic-acid-watery-sun-gel
+https://isntree-global.com/products/isntree-hyaluronic-acid-watery-sun-gel-50ml?utm_source=chatgpt.com
                  
 3. Neutrogena Ultra Sheer SPF 50 –\n 
-https://www.neutrogena.com/products/sun/ultra-sheer-dry-touch-sunscreen-broad-spectrum-spf-50""")
+https://www.neutrogena.in/sun/ultra-sheer?utm_source=chatgpt.com""")
     elif(n1 == "Dry" and n2 == '🧴Moisturizer'):
         st.write("""🧴Moisturizer :
                  
@@ -117,15 +117,15 @@ https://www.neutrogena.com/products/sun/ultra-sheer-dry-touch-sunscreen-broad-sp
 https://www.cerave.com/skincare/moisturizers/moisturizing-cream
                  
 2. Cetaphil Moisturising Cream –\n 
-https://www.cetaphil.com/us/moisturizers/moisturizing-cream
+https://www.cetaphil.in/moisturizers/moisturising-cream/8906005273436.html/?utm_source=chatgpt.com
                  
 3. Bioderma Atoderm Crème –\n 
-https://www.bioderma.us/all-products/atoderm/cream""")
+https://www.bioderma-india.in/our-products/atoderm/creme?utm_source=chatgpt.com""")
     elif(n1 == "Normal" and n2 == "🧼Face wash"):
         st.write("""🧼Face Wash :
                  
 1. Cetaphil Gentle Skin Cleanser –\n 
-https://www.cetaphil.com/us/cleansers/gentle-skin-cleanser
+https://www.cetaphil.in/products/cleansers/gentle-skin-cleanser/8906005274105.html
                  
 2. CeraVe Hydrating Cleanser –\n 
 https://www.cerave.com/skincare/cleansers/hydrating-facial-cleanser""")
@@ -141,13 +141,13 @@ https://www.dotandkey.com/products/rice-water-probiotics-hydrating-toner""")
         st.write("""🔬Serum : 
                  
 1. Minimalist Vitamin C 10% Serum –\n 
-https://beminimalist.co/products/vitamin-c-10-face-serum
+https://share.google/nOcxkVWC1qitQubFc
                  
 2. L'Oréal Paris Revitalift Hyaluronic Acid Serum –\n 
-https://www.lorealparis.co.in/revitalift/revitalift-1-5-percent-hyaluronic-acid-serum
+https://www.lorealparis.co.in/revitalift/revitalift-1-5-percent-hyaluronic-acid-serum-15ml?utm_source=chatgpt.com
                  
 3. Plum Vitamin C Serum –\n 
-https://plumgoodness.com/products/15-vitamin-c-face-serum""")
+https://plumgoodness.com/products/vitamin-c-face-serum?utm_source=chatgpt.com""")
     elif(n1 == 'Normal' and n2 == '☀️Sunscreen'):
         st.write("""☀️Sunscreen :
                  
@@ -160,21 +160,21 @@ https://beautyofjoseon.com/products/relief-sun-rice-probiotics""")
         st.write("""🧴Moisturizer :
                  
 1. Cetaphil Moisturising Lotion –\n 
-https://www.cetaphil.com/us/moisturizers/moisturizing-lotion
+https://www.1mg.com/search/all?name=Cetaphil%20Moisturising%20Lotion
                  
 2. Neutrogena Hydro Boost Water Gel –\n 
-https://www.neutrogena.com/products/skincare/hydro-boost-water-gel
+https://www.amazon.in/s?k=Neutrogena+Hydro+Boost+Water+Gel
                  
 3. Simple Hydrating Light Moisturiser –\n 
-https://www.simpleskincare.in/products/hydrating-light-moisturiser""")
+https://www.simpleskincare.in/search?q=hydrating+light+moisturiser""")
     elif(n1 == "Combination" and n2 == "🧼Face wash"):
         st.write("""🧼Face Wash :
                  
 1. Simple Refreshing Face Wash –\n 
-https://www.simpleskincare.in/products/kind-to-skin-refreshing-facial-wash
+https://share.google/db7QVLT6yJ4JUYABo
                  
 2. Cetaphil Oily Skin Cleanser –\n 
-https://www.cetaphil.com/us/cleansers/oily-skin-cleanser""")
+https://share.google/FiG52ygEQ7FeUfHZ6""")
     elif(n1 == 'Combination' and n2 == '💧Toner'):
         st.write("""💧Toner :
                  
@@ -182,35 +182,35 @@ https://www.cetaphil.com/us/cleansers/oily-skin-cleanser""")
 https://www.dotandkey.com/products/rice-water-probiotics-hydrating-toner
                  
 2. Simple Soothing Facial Toner –\n 
-https://www.simpleskincare.in/products/kind-to-skin-soothing-facial-toner""")
+https://www.simpleskincare.in/products/simple-kind-to-skin-soothing-facial-toner-200ml""")
     elif(n1 == 'Combination' and n2 == '🔬Serum'):
         st.write("""🔬Serum : 
                  
 1. Minimalist Niacinamide 5% Serum –\n 
-https://beminimalist.co/products/niacinamide-5-serum
+https://share.google/QfRcS39AXrDWiyk6M
                  
 2. Minimalist Vitamin C 10% Serum –\n 
-https://beminimalist.co/products/vitamin-c-10-face-serum""")
+https://share.google/nOcxkVWC1qitQubFc""")
     elif(n1 == 'Combination' and n2 == '☀️Sunscreen'):
         st.write("""☀️Sunscreen :
 1. Minimalist Light Fluid Sunscreen SPF 50 –\n 
 https://beminimalist.co/products/light-fluid-spf-50-sunscreen
                  
 2. Deconstruct Gel Sunscreen SPF 55 –\n 
-https://thedeconstruct.in/products/gel-sunscreen-spf-55-pa""")
+https://thedeconstruct.in/products/gel-sunscreen-spf-55?_pos=1&_sid=8646b3465&_ss=r""")
     elif(n1 == "Combination" and n2 == '🧴Moisturizer'):
         st.write("""🧴Moisturizer :
                  
 1. Neutrogena Hydro Boost Water Gel –\n 
-https://www.neutrogena.com/products/skincare/hydro-boost-water-gel
+https://www.amazon.in/s?k=Neutrogena+Hydro+Boost+Water+Gel
                  
 2. Simple Hydrating Light Moisturiser –\n 
-https://www.simpleskincare.in/products/hydrating-light-moisturiser""")
+https://www.simpleskincare.in/search?q=hydrating+light+moisturiser""")
     elif(n1 == "Sensitive" and n2 == "🧼Face wash"):
         st.write("""🧼Face Wash :
                  
 1. Cetaphil Gentle Skin Cleanser –\n 
-https://www.cetaphil.com/us/cleansers/gentle-skin-cleanser
+https://www.cetaphil.in/products/cleansers/gentle-skin-cleanser/8906005274105.html
                  
 2. CeraVe Hydrating Cleanser –\n 
 https://www.cerave.com/skincare/cleansers/hydrating-facial-cleanser
